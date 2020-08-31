@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbc117f1-9dda-4c9b-b218-2da7f2d766ce" name="Default Changelist" comment="Internal" />
+    <list default="true" id="cbc117f1-9dda-4c9b-b218-2da7f2d766ce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/postBuild" beforeDir="false" afterPath="$PROJECT_DIR$/postBuild" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +37,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598832399684</updated>
-      <workItem from="1598832409194" duration="636000" />
+      <workItem from="1598832409194" duration="1187000" />
     </task>
     <task id="LOCAL-00001" summary="Internal">
       <created>1598832454800</created>
@@ -64,7 +67,21 @@
       <option name="project" value="LOCAL" />
       <updated>1598832940998</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Internal">
+      <created>1598833056960</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598833056960</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Internal">
+      <created>1598833742512</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598833742512</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,17 +92,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="Internal" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="37" key="CommitChangelistDialog2" timestamp="1598833044705">
+    <state x="275" y="37" key="CommitChangelistDialog2" timestamp="1598833742304">
       <screen x="0" y="23" width="1397" height="877" />
     </state>
-    <state x="275" y="37" key="CommitChangelistDialog2/0.23.1397.877@0.23.1397.877" timestamp="1598833044705" />
+    <state x="275" y="37" key="CommitChangelistDialog2/0.23.1397.877@0.23.1397.877" timestamp="1598833742304" />
     <state x="140" y="91" key="DiffContextDialog" timestamp="1598833037712">
       <screen x="0" y="23" width="1397" height="877" />
     </state>
     <state x="140" y="91" key="DiffContextDialog/0.23.1397.877@0.23.1397.877" timestamp="1598833037712" />
-    <state x="298" y="188" key="Vcs.Push.Dialog.v2" timestamp="1598832942506">
+    <state x="298" y="188" key="Vcs.Push.Dialog.v2" timestamp="1598833058438">
       <screen x="0" y="23" width="1397" height="877" />
     </state>
-    <state x="298" y="188" key="Vcs.Push.Dialog.v2/0.23.1397.877@0.23.1397.877" timestamp="1598832942506" />
+    <state x="298" y="188" key="Vcs.Push.Dialog.v2/0.23.1397.877@0.23.1397.877" timestamp="1598833058438" />
   </component>
 </project>

@@ -5,7 +5,7 @@ set -e
 mkdir -p ~/.aws/ && cp config ~/.aws/
 wget https://s3.amazonaws.com/aws-cli/awscli-bundle.zip
 unzip awscli-bundle.zip
-./awscli-bundle/install -b ~/bin/aws
+./awscli-bundle/install -b /user/local/bin/aws
 
 
 PREFIX=~/.okta releaseTag="v2.0.0" bash <(curl -fsSL https://raw.githubusercontent.com/oktadeveloper/okta-aws-cli-assume-role/53bb97/bin/install.sh | grep -v "^releaseTag") -i
