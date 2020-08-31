@@ -1,0 +1,5 @@
+#!/bin/bash
+
+. "$HOME/.okta/bash_functions"
+export PATH="$HOME/.okta/bin:$PATH"
+exec "$@"
