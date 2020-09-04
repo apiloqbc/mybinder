@@ -1,3 +1,0 @@
-bzip2 
-openjdk-11-jdk
-
