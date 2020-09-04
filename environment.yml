@@ -1,0 +1,11 @@
+name: base
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab=2.1.5=py_0
+  - python=3.8.3=cpython_he5300dc_0
+  - pipenv
+  - jupyterlab-git # git extension
+  - ipython-sql # sql magic extension
+prefix: /opt/conda
+
