@@ -1,3 +1,2 @@
 # Note that there must be a tag
-FROM jupyter/tensorflow-notebook:612aa5710bf9
-
+FROM jupyter/datascience-notebook:r-3.6.3
