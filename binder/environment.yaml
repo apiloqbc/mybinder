@@ -123,7 +123,6 @@ dependencies:
   - flask
   - retrying
   - ansi2html
-  - papermill
   - pip:
     # not available on conda, so use pip
     - nbgitpuller
@@ -133,4 +132,5 @@ dependencies:
     - jupyter_dash
     - jupyterlab-dash
     - jupyter-server-proxy
+    - papermill
 prefix: /opt/conda
