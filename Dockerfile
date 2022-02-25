@@ -99,3 +99,6 @@ RUN julia -e 'import Pkg; Pkg.update()' && \
     fix-permissions "${JULIA_PKGDIR}" "${CONDA_DIR}/share/jupyter"
 
 WORKDIR $HOME
+
+COPY requirements.txt .
+RUN pip install --user requirements.txt
